@@ -213,35 +213,43 @@ $$\mathcal{L}_{\text{training}} = \mathcal{L}_{\text{seed+Wikipedia}} \cup \math
 ### Label Assembly State Machine
 
 ```mermaid
-stateDiagram-v2
-    classDef source  fill:#1a3a5c,color:#cce0ff,font-weight:bold
-    classDef process fill:#2a1a4a,color:#e8ccff,font-weight:bold
-    classDef verify  fill:#3a2a0a,color:#fff0cc,font-weight:bold
-    classDef output  fill:#1a3a2a,color:#ccffe8,font-weight:bold
-    classDef guard   fill:#3a1a2a,color:#ffccdd,font-weight:bold
+flowchart TD
+    classDef source  fill:#1a3a5c,stroke:#4f8ef7,color:#cce0ff,font-weight:bold
+    classDef process fill:#2a1a4a,stroke:#a17ff5,color:#e8ccff,font-weight:bold
+    classDef verify  fill:#3a2a0a,stroke:#f7a23b,color:#fff0cc,font-weight:bold
+    classDef output  fill:#1a3a2a,stroke:#3ddc97,color:#ccffe8,font-weight:bold
+    classDef guard   fill:#3a1a2a,stroke:#e84c6e,color:#ffccdd,font-weight:bold
 
-    [*] --> LoadSeed : Load 263 Named Failures\nseed_failures.csv
-    [*] --> ScrapeWiki : Wikipedia Bridge\nDisaster Lists
-    [*] --> IngestNYDOT : NYDOT Historical\nSpreadsheets (91 BINs)
-    [*] --> ScanNBI : NBI Year-T vs Year-T+1\nConsecutive Snapshot Pairs
+    LoadSeed["Load 263 Named Failures\nseed_failures.csv"]:::source
+    ScrapeWiki["Wikipedia Bridge\nDisaster Lists"]:::source
+    IngestNYDOT["NYDOT Historical\nSpreadsheets (91 BINs)"]:::source
+    ScanNBI["NBI Year-T vs Year-T+1\nConsecutive Snapshot Pairs"]:::source
 
-    ScanNBI --> ApplyRules : 4 Anomaly Detection Rules\nDisappearance / Closure / Drop / Scour
-    ApplyRules --> Guards : State Overlap Guard\n+ Year-Built Guard
-    Guards --> SerperSearch : Targeted Google Search\nper Candidate Bridge
+    ApplyRules["4 Anomaly Detection Rules\nDisappearance / Closure / Drop / Scour"]:::process
+    Guards["State Overlap Guard\n+ Year-Built Guard"]:::guard
+    SerperSearch["Targeted Google Search\nper Candidate Bridge"]:::verify
+    OpenAIVerify["OpenAI GPT-4o-mini\nArticle Confirmation"]:::verify
+    RuleFallback["Keyword + Location\nRule Fallback"]:::verify
+    NBISelfVerify["NBI Anomaly\nSelf-Verification"]:::verify
+    ArticleCheck["Per-Record URL\nVerification"]:::verify
+    UnifyLabels["Unify All Labels"]:::process
+    FinalLabels[("labeled_bridges.parquet\nUnified Training Labels")]:::output
 
-    SerperSearch --> OpenAIVerify : OpenAI GPT-4o-mini\nArticle Confirmation
-    OpenAIVerify --> RuleFallback : Keyword + Location\nRule Fallback
-    RuleFallback --> NBISelfVerify : NBI Anomaly\nSelf-Verification
+    ScanNBI --> ApplyRules
+    ApplyRules --> Guards
+    Guards --> SerperSearch
+    SerperSearch --> OpenAIVerify
+    OpenAIVerify --> RuleFallback
+    RuleFallback --> NBISelfVerify
     NBISelfVerify --> UnifyLabels
 
-    LoadSeed --> ArticleCheck : Per-Record URL\nVerification
+    LoadSeed --> ArticleCheck
     ScrapeWiki --> ArticleCheck
     ArticleCheck --> UnifyLabels
 
     IngestNYDOT --> UnifyLabels
 
-    UnifyLabels --> FinalLabels : labeled_bridges.parquet\nUnified Training Labels
-    FinalLabels --> [*]
+    UnifyLabels --> FinalLabels
 ```
 
 ---
@@ -583,9 +591,9 @@ graph LR
 
     SL --> LF["Load Restriction Flag\n18,237 bridges\n72.5% of shortlist\nOpen but legally weight-restricted"]:::load
 
-    SL --> CR["Critical Condition\n9,522 bridges\n37.9% of shortlist\nLowest major rating <= 3"]:::crit
+    SL --> CR["Critical Condition\n9,522 bridges\n37.9% of shortlist\nLowest major rating under 4"]:::crit
 
-    SL --> SC["Critical Scour Code\n5,434 bridges\n21.6% of shortlist\nscour_code <= 2"]:::scour
+    SL --> SC["Critical Scour Code\n5,434 bridges\n21.6% of shortlist\nscour_code under 3"]:::scour
 
     LF --> OV["Overlap: Load + Critical\nSubset with both flags\nHighest priority for inspection"]:::load
     CR --> OV
@@ -625,11 +633,11 @@ flowchart TD
 
     F --> G{"Formal Evaluation\nScript Exists?"}:::todo
 
-    G -->|NOT YET BUILT| H["Planned: evaluate_nydot_holdout.py\nPrecision/Recall curves\nSensitivity at p >= 0.5 threshold"]:::todo
+    G -->|NOT YET BUILT| H["Planned: evaluate_nydot_holdout.py\nPrecision/Recall curves\nSensitivity at p > 0.5 threshold"]:::todo
 
     G -->|Current state| I["Manual inspection only\nNo automated benchmark output"]:::todo
 
-    H --> J["Target metric:\nWhat % of NYDOT collapses\ncaught at threshold p >= 0.5?\nWhat is the false alarm rate?"]:::partial
+    H --> J["Target metric:\nWhat % of NYDOT collapses\ncaught at threshold p > 0.5?\nWhat is the false alarm rate?"]:::partial
 ```
 
 **Chart view — illustrative risk score positioning of NYDOT pre-failure bridges vs full 624K baseline (simulated from upper distribution percentile; formal eval pending):**
@@ -695,7 +703,7 @@ graph TD
     OBJ --> SHO["SHORT-TERM  (30 days)"]:::short
     SHO --> S1["4. Research ROI Analysis\nNBI failure trends vs FHWA R&D spend\nObjective 3"]:::short
     SHO --> S2["5. Funding Gap Analysis\nFailure frequency vs LTBP budget by cause\nObjective 4"]:::short
-    SHO --> S3["6. Temporal train/test split\nTrain <= 2020  Test 2020-2025"]:::short
+    SHO --> S3["6. Temporal train/test split\nTrain 2020 and prior, Test 2020-2025"]:::short
 
     OBJ --> MED["MEDIUM-TERM  (60-90 days)"]:::med
     MED --> M1["7. Graph Neural Networks\nModel bridges as traffic network nodes"]:::med
