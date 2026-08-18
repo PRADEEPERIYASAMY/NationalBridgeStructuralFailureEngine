@@ -208,7 +208,9 @@ The following is a truthful status of every implemented component as of the curr
 
 The labeling system merges 4 data streams into a single unified training dataset:
 
-$$\mathcal{L}_{\text{training}} = \mathcal{L}_{\text{seed+Wikipedia}} \cup \mathcal{L}_{\text{NYDOT}} \cup \mathcal{L}_{\text{implicit\_NBI}}$$
+```math
+\mathcal{L}_{\text{training}} = \mathcal{L}_{\text{seed+Wikipedia}} \cup \mathcal{L}_{\text{NYDOT}} \cup \mathcal{L}_{\text{implicit\_NBI}}
+```
 
 ### Label Assembly State Machine
 
@@ -256,21 +258,27 @@ flowchart TD
 
 ## ML System & Mathematical Rigor
 
-### Pre-Failure Feature Extraction ($T-1$)
+### Pre-Failure Feature Extraction (`T-1`)
 For bridge `b` collapsing in year `Y_f`, its training feature vector comes from `Y_f - 1`:
-$$\mathbf{x}_b = \text{NBI\_Features}(b,\ Y_f - 1)$$
+```math
+\mathbf{x}_b = \text{NBI\_Features}(b,\ Y_f - 1)
+```
 
 This is the core anti-bias design. A bridge rated 8 in 2004 that collapsed in 2005 trains on its 2004 inspection — not on post-collapse entries.
 
 ### XGBoost Binary Classification per Category
 Each of the 7 models uses binary cross-entropy with positive class scaling:
-$$\mathcal{L}(\theta) = -\frac{1}{N}\sum_{i=1}^{N}\bigl[w \cdot y_i \log \hat{p}_i + (1-y_i)\log(1-\hat{p}_i)\bigr], \quad w = \frac{N_{\text{neg}}}{N_{\text{pos}}}$$
+```math
+\mathcal{L}(\theta) = -\frac{1}{N}\sum_{i=1}^{N}\bigl[w \cdot y_i \log \hat{p}_i + (1-y_i)\log(1-\hat{p}_i)\bigr], \quad w = \frac{N_{\text{neg}}}{N_{\text{pos}}}
+```
 
 Hyperparameters: `n_estimators=100`, `max_depth=4`, `learning_rate=0.1`, `enable_categorical=True`.
 
 ### TreeSHAP Feature Attribution
 For each trained model:
-$$\phi_i = \sum_{S \subseteq \mathcal{F} \setminus \{i\}} \frac{|S|!(|\mathcal{F}|-|S|-1)!}{|\mathcal{F}|!}\bigl[v(S \cup \{i\}) - v(S)\bigr]$$
+```math
+\phi_i = \sum_{S \subseteq \mathcal{F} \setminus \{i\}} \frac{|S|!(|\mathcal{F}|-|S|-1)!}{|\mathcal{F}|!}\bigl[v(S \cup \{i\}) - v(S)\bigr]
+```
 
 Mean absolute SHAP values `|phi_i|` are averaged across all training examples and saved as `driver_ranking_{category}.parquet`.
 
