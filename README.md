@@ -7,7 +7,7 @@
 [![XGBoost Framework](https://img.shields.io/badge/ML-XGBoost%20%2B%20SHAP-orange.svg)](https://xgboost.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-An enterprise-grade **Machine Learning Risk Engine** that predicts structural collapse probabilities across all **624,000+ operational US bridges** in the Federal Highway Administration (FHWA) National Bridge Inventory (NBI). The platform ingests **28 years of longitudinal inspection data (1992–2025)**, eliminates survivor bias via pre-failure temporal snapshots ($T-1$), and trains category-specific XGBoost risk classifiers with full SHAP explainability.
+An enterprise-grade **Machine Learning Risk Engine** that predicts structural collapse probabilities across all **624,000+ operational US bridges** in the Federal Highway Administration (FHWA) National Bridge Inventory (NBI). The platform ingests **28 years of longitudinal inspection data (1992–2025)**, eliminates survivor bias via pre-failure temporal snapshots (`T-1`), and trains category-specific XGBoost risk classifiers with full SHAP explainability.
 
 ---
 
@@ -47,7 +47,7 @@ This platform was built around four driving research and engineering objectives:
 
 | Challenge | Naive Approach | Our Solution | Measured Impact |
 | :--- | :--- | :--- | :--- |
-| **Survivor Bias** | Train on today's standing inventory — but collapsed bridges are absent from it | **Pre-Failure Snapshot Matching ($T-1$)**: for each verified collapse, load that bridge's NBI record from the year *before* it failed | Training set represents true "about to fail" conditions, not healthy bridges |
+| **Survivor Bias** | Train on today's standing inventory — but collapsed bridges are absent from it | **Pre-Failure Snapshot Matching (`T-1`)**: for each verified collapse, load that bridge's NBI record from the year *before* it failed | Training set represents true "about to fail" conditions, not healthy bridges |
 | **Label Scarcity** | Manual curation yields $\leq 50$ events with verifiable NBI keys | **Closed-Loop Labeler**: NBI longitudinal transition scanning + Serper API + OpenAI GPT-4o-mini article confirmation | Seed database expanded to **263 named events** (174 scour, 31 collision, etc.) |
 | **Class Imbalance** | $<300$ positives vs $600K+$ negatives causes model to predict "no failure" always | Per-category XGBoost with `scale_pos_weight` to match category-specific ratio; Stratified K-Fold to preserve rare positives across folds | Models trained for 4 categories without collapsing; 3 categories still skipped due to $<5$ matched NBI training examples |
 | **Memory Bottlenecks** | Loading all 28 years of NBI as CSV ($>14$ GB) into Pandas crashes on laptop hardware | **Parquet Projection Pushdown via DuckDB** `:memory:`: disk stays as Parquet, only needed columns are read | Peak RAM $\approx 1.4$ GB for full pipeline execution |
@@ -160,8 +160,8 @@ The following is a truthful status of every implemented component as of the curr
 
 - `build_verified_labels.py`: Strict three-requirement pipeline — **(1)** named bridge + cause, **(2)** traceable source, **(3)** confirmed news article URL (not Wikipedia, not social media, not NBI data download pages). Uses Serper API + OpenAI GPT-4o-mini for article discovery and confirmation.
 
-- `implicit_failure_detector.py`: Scans consecutive NBI snapshot pairs ($T$ vs $T+1$) for four anomaly types:
-  1. **Inventory Disappearances** — bridge present in year $T$ with critical rating <= 3 and at least one structural flag; absent in $T+1$
+- `implicit_failure_detector.py`: Scans consecutive NBI snapshot pairs (`T` vs `T+1`) for four anomaly types:
+  1. **Inventory Disappearances** — bridge present in year `T` with critical rating <= 3 and at least one structural flag; absent in `T+1`
   2. **Emergency Safety Closures** — posting status changes to `K` (closed for safety)
   3. **Sudden Rating Drops** — lowest major rating drops >= 4 points from satisfactory (>= 6) to critical (<= 2) in one year
   4. **Scour Code Drops** — `scour_code` falls from safe (>= 6) to critical (<= 3) in one year
@@ -257,7 +257,7 @@ flowchart TD
 ## ML System & Mathematical Rigor
 
 ### Pre-Failure Feature Extraction ($T-1$)
-For bridge $b$ collapsing in year $Y_f$, its training feature vector comes from $Y_f - 1$:
+For bridge `b` collapsing in year `Y_f`, its training feature vector comes from `Y_f - 1`:
 $$\mathbf{x}_b = \text{NBI\_Features}(b,\ Y_f - 1)$$
 
 This is the core anti-bias design. A bridge rated 8 in 2004 that collapsed in 2005 trains on its 2004 inspection — not on post-collapse entries.
@@ -272,7 +272,7 @@ Hyperparameters: `n_estimators=100`, `max_depth=4`, `learning_rate=0.1`, `enable
 For each trained model:
 $$\phi_i = \sum_{S \subseteq \mathcal{F} \setminus \{i\}} \frac{|S|!(|\mathcal{F}|-|S|-1)!}{|\mathcal{F}|!}\bigl[v(S \cup \{i\}) - v(S)\bigr]$$
 
-Mean absolute SHAP values $|\phi_i|$ are averaged across all training examples and saved as `driver_ranking_{category}.parquet`.
+Mean absolute SHAP values `|phi_i|` are averaged across all training examples and saved as `driver_ranking_{category}.parquet`.
 
 ---
 
