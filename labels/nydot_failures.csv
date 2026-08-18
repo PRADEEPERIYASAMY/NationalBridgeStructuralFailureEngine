@@ -1,0 +1,160 @@
+bridge_name,state,year_failed,cause,location_text,prefailure_nbi_year,nbi_data_available,download_url,fatalities,injuries,damage_cost_usd,notes
+BIN 10085,NY,1993,scour,SR 355 in Frederick Co Monocacy River,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN C3038,NY,1994,scour,Mabelvale West I 30,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1061800,NY,1996,pc,Peck Road NY 690,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 156,NY,1998,pc,Burke County I-40,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3117,NY,1999,tc,"Pederstrain Bridge, Baltimore Co I-695",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 5513810,NY,1999,tc,Lincoln Park Pedestrain Bridge Route 100,1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1006720,NY,1999,pc,"Pedestrain Bridge, Saratoga Co. Route 9N",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 100833,NY,2000,pc,I-81 (SB) NY 11,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1008332,NY,2000,pc,I-81 NB NY 11,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1053711,NY,2000,pc,"Route 690 SB, Onondaga Co. Route 370",1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 4443820,NY,2000,pc,Moore Road I-390 EB,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1070790,NY,2000,pc,Town Line Road I-390 SB,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1012999,NY,2000,pc,Route 26 Route 434,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1027530,NY,2001,tc,Route 58 WB Oswegatchie River,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1020662,NY,2001,pc,Route 29 I-87 NB,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1007632,NY,2001,pc,NY 17 NY 10,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 5051740,NY,2001,pc,I-790 Utica Inter./Gensee,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1002460,NY,2002,pc,"Route 5, Herkimer Co East Canada Cr",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1019300,NY,2002,pc,"NY Route 27, Brookhaven Station Road",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 00583,NY,2003,pc,Harrisburg Bridge Willamette River,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 08499,NY,2004,pc,Fahy Avenue in Bandon nan,2003,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1060020,NY,2004,pc,Fletcher Street Route 17,2003,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN C2805,NY,1993,scour,I 30 Otter Creek,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3352500,NY,2000,tc,Basin Clove Road W Br. Delaware River,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1077970,NY,2002,tc,"Pedestrian Bridge, Region 2 NYS Rte 49",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA32-56,NY,1999,tc,"Goza Road, Jefferson Co. Mason Branch",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 8584,NY,1999,pc,Chavez Co. Road nan,1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 6237,NY,2002,tc,NM 456 Rral Major Collector nan,2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 5232,NY,2003,tc,I-40 Frontage Rd nan,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 29C211,NY,2003,tc,Evan Creek Bridge (Wimer) Evan Creek,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 5868,NY,2004,tc,Rio Arriba Co Rd 369 nan,2003,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1049381,NY,1994,pc,Sagtikos State Parkway Long Island Expwy,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 12291,NY,1995,scour,CR 33 Big Creek,1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 165/10,NY,1997,pc,Carbon River Bridge Carbon River,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 5512179,NY,1997,pc,I-87 Central Ave.,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1159,NY,1993,scour,Jackson County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2390,NY,1993,scour,Lesueur County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2014,NY,1993,scour,Lincoln County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2029,NY,1993,scour,Lincoln County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2096,NY,1993,scour,Lincoln County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L1737,NY,1993,scour,Lyon County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN RO122,NY,1993,scour,Lyon County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2544,NY,1993,scour,Nobles County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L3627,NY,1993,scour,Pipestone County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L6806,NY,1993,scour,Redwood County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L6808,NY,1993,scour,Redwood County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 72527,NY,1993,scour,Sibley County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L2704,NY,1993,scour,Sibley County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN L6674,NY,1993,scour,Traverse County nan,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 36-28,NY,1993,scour,Pendleton Co. Teter Run,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 51-8/4,NY,1993,scour,Webster County L. Fork of Holly R,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN W-0714,NY,1993,scour,Fruit Tree Rd in Washington Co Raven Rock Run,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2217440,NY,1994,pc,Stowell Road Glendenning Creek,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 49-SR019-06.45,NY,1994,tc,SR 19 Mississippi River,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 18-87,NY,1995,scour,Jackson Co. (Mt. Alto) Little Mill Creek,1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3201320,NY,1996,tc,Long Road West Kill Creek,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1043,NY,1996,pc,SR 47 Allegany County North Creek,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN G-0048,NY,1996,pc,"Savage River Road, Garrett Cty. Savage River",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 05/04,NY,1996,pc,"Deneen Road, Washington County Trib. Potomac River",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 05/15,NY,1996,pc,"Weller Road, Washington County Trib. Licking Creek",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 14/07,NY,1996,pc,"Welty Church Road, Washington Co Little Antietam Crk",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2227010,NY,1996,tc,Van Benschoten Road Plattekill,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3351750,NY,1996,tc,Cr1 Tremperkill Road Tremperkill,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3353060,NY,1996,tc,Flair Street E. Branch Deleware R,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3356640,NY,1996,tc,TH 43 Sipple Road Hankins Creek,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3356660,NY,1996,tc,TH59 Acid Factory Pea Brook,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2267400,NY,1996,pc,Vanderpool Road Prospect Valley Crk,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 12/320,NY,1996,pc,Naches River Bridge Naches River,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 39-86,NY,1996,scour,Preston Co. Spruce Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-03,NY,1996,scour,Hampshire Co. Branch Lt. Cacapon R,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-13,NY,1996,scour,Hampshire Co. Old Man Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-08,NY,1996,scour,Hampshire Co. Mill Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-220,NY,1996,scour,Hampshire Co. Mill Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 16-20,NY,1996,scour,Hardy Co. Upper Cove Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 29-02,NY,1996,scour,Mineral Co. Abram Creek,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 29-42,NY,1996,scour,Mineral Co. Deep Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 33-07,NY,1996,scour,Morgan Co. Cacapon River,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 38-12,NY,1996,scour,Pocahontas Co. Greenbrier River,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 42-39,NY,1996,scour,Randolph Co. Shavers Run,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN A-0031,NY,1996,pc,"Beachwood Road, Allegany County Koonz Run",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332010,NY,1996,pc,Burch Hill Road Catherine Creek,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3302320,NY,1996,tc,Ormsby Road Gulf Brook,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3302610,NY,1996,tc,Spear Road Bogurt River,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN CL-0342,NY,1996,pc,"Newport Road, Carroll County Gillis Falls",1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 118BR15,NY,1997,tc,Montgomery nan,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 04-16,NY,1997,scour,Braxton Co. Fk of Lt. Kanawha Rv,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1058509,NY,1998,pc,"Wantagh Parkway, Nassau Co. Goose Creek",1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 116BR10,NY,1998,tc,Bristol nan,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 20-57,NY,1998,scour,Kanawha Co. Blue Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 53-53,NY,1998,scour,Wirt Co. (Parrish Fork) Parrish Fork,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 18-21,NY,1998,scour,Jackson Co. (Lockhart Fork) Lt. Fork Sandy Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 31-76,NY,1998,scour,Monogalia Co. Booths Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 17-04,NY,1998,scour,Harrison Co. Bingham Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 09-25,NY,1998,scour,Dodridge Co. Meathouse Fork,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 11-15,NY,1998,scour,Gilmer Co. Grass Run,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3335950,NY,1998,pc,CR 39 Clintonville Road Little Ausable River,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2218880,NY,1998,tc,Town of Spencer - Hart Road Sulphur Spring Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3367390,NY,1998,tc,Springville-Boston Road Spring Brook,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2219830,NY,1998,pc,Buel Road E. Br. Deer Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3335900,NY,1998,pc,Dashnaw Road Little Ausable River,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3337430,NY,1998,pc,WPA Road W. Br. Deer Creek,1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA64144,NY,1999,tc,"Strong River Road, Simpson Co. Strong River",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 101/214,NY,1999,pc,Nolan Creek Bridge Nolan Creek,1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA64-144,NY,1999,tc,"Strong River Road, Simpson Co. Strong River",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1091550,NY,1999,pc,Route 340 Sparkill Creek,1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 4310090,NY,2000,tc,"Co rte 27, Montgomery Co. Barge Canal",1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3357400,NY,2000,pc,TH48 Tusten Road Ten Mile River,1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3340080,NY,2000,tc,"Co Rte 19, East Road - Lewis Co. S.B. Negre Crrek",1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 30-A622-2.01,NY,2001,pc,Shelton Mission Rd Greene Co. Dry Creek,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2020410,NY,2001,pc,Route 28A Bushkill Creek,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69-31,NY,2002,tc,"Coldwater-Arkabutla Rd, Tate Co. Hickahala Creek",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 8064,NY,2003,tc,County Road S - 8 nan,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3330270,NY,2003,tc,CR 1 S Br. Van Campen Cre,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332670,NY,2003,tc,County Road 16 Meads Creek,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 193,NY,2003,pc,113th Street Thorpe Creek,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 62-A521-0.67,NY,2003,tc,Middle Creek Road Middle creek,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 8684,NY,2005,pc,Grant Co. Rd. 3-14 nan,2004,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3347800,NY,2005,pc,Bridge Street Esopus Creek,2004,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2224200,NY,2005,pc,Balace Road Rondout Creek NY,2004,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3347020,NY,2005,pc,Gossoo Road Bushnellsville Creek,2004,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1068010,NY,1993,pc,"NY481 Town of Clay, Onondaga Co Mud Creek",1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1016190,NY,1994,pc,20 A 20A42031057 Beards Creek,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 36-SR114-03.23,NY,1995,tc,SR 114 Tennessee River,1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3330,NY,1995,pc,"South Bridge, Auburn-Lewiston Androscoggin River",1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2187,NY,1996,pc,Norridgewock - Covered Br. Kennebec River,1995,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 1671,NY,1997,pc,N.M. 18 Rio Grande,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69084,NY,1998,tc,"Hogfoot Raod, Tate Co. Hoover Branch",1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA32056,NY,1999,tc,"Goza Road, Jefferson Co. Mason Branch",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA27006,NY,1999,pc,"FAS 1636, Humphreys Co. Panther Cr.",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA27-6,NY,1999,pc,"FAS 1636, Humphreys Co. Panther Creek",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3338830,NY,2001,pc,Military Road Mill Creek,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA77-85,NY,2002,tc,"Woodward Switch Road, Wayne Co. Chickasawhay River",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 19-I40-15.16,NY,2003,tc,Middle Creek Road Monroe County Middle Creek,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2261160,NY,2001,pc,"Sagg Road, Suffolk L. I. R.R. Montauk B",2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3346460,NY,1994,tc,Sheely Road Sundown Creek,1993,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 18907,NY,1995,scour,CR 134 Adamson Creek,1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 08-17,NY,1995,scour,Clay Co. Sycamore Creek,1994,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA36-80,NY,1997,tc,"Denmark Road, Lafayette Co. Little Kettle Ck",1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332120,NY,1997,pc,Hall Road Hooker Creek,1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA36080,NY,1997,tc,"Denmark Road, Lafayette Co. Little Kettle Cr.",1996,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69-84,NY,1998,tc,"Hogfoot Road, Tate Co. Hoover Branch",1997,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA15-187,NY,1999,tc,"Rockport Road, Copiah Co. Pearl River",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA66-33,NY,1999,tc,"Old Highway 26, Stone Co. Kirby Creek",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3305130,NY,1999,pc,"County Home Br. Rd., Warren Co. Schroon River",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 49B08,NY,1999,tc,N. Main St.in Heppner Hinton Creek,1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA15187,NY,1999,tc,"Rockport Road, Copiah Co. Pearl River",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA66033,NY,1999,tc,"Old Highway 26, Stone Co. Kirby Creek",1998,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 3331810,NY,2001,pc,Langdon Hill Road Newtown Creek,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN Private,NY,2001,pc,Lower Shavertown Cov. Br Trout Brook,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 59C535,NY,2001,tc,Harris Road Pine Creek,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2269290,NY,2001,tc,Leon McGlashan Road Batavia Kill,2000,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN SA60-65,NY,2002,tc,"Eason Road, Quitman Co. Bobo Bayou",2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 56-0A257-1.90,NY,2002,tc,Driver Rd Macon County White Oak Creek,2001,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2205590,NY,2003,tc,Jones Road Madd River,2002,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 7372,NY,2004,pc,CR 58 I-25,2003,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 06562,NY,2004,tc,Graves Road Mill Creek,2003,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 56-A447-0.02,NY,2005,tc,Wilburn Lane Macon County East Fork Goose Cree,2004,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2070,NY,1993,scour,SR 450 in Anne Arundel Co Severn River,1992,yes,,0,0,0.0,Ingested from NYDOT/Scour Database
+BIN 2222280,NY,2000,tc,"Van Deusen Road, Columbia Co. Loomis Creek",1999,yes,,0,0,0.0,Ingested from NYDOT/Scour Database

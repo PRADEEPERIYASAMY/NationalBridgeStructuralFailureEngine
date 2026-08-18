@@ -1,0 +1,10 @@
+pandas
+numpy
+pyarrow
+duckdb
+scikit-learn
+xgboost
+shap
+rapidfuzz
+matplotlib
+xlrd>=2.0.1

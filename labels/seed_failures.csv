@@ -1,0 +1,264 @@
+bridge_name,state,year_failed,cause,location_text,prefailure_nbi_year,nbi_data_available,download_url,fatalities,injuries,damage_cost_usd,notes
+Dry Creek Bridge,CO,1904,scour,"Dry Creek Bridge Eden, Colorado",1903,no,,111,,,Scraped from Wikipedia. Original cause: Sudden washout
+Portage Canal Swing Bridge,MI,1905,collision,"Portage Canal Swing Bridge Houghton, Michigan",1904,no,,0,0.0,,Scraped from Wikipedia. Original cause: Swing span struck by the steamer Northern Wave.
+Cimarron River Rail Crossing,OK,1906,misc,"Cimarron River Rail Crossing Dover, Oklahoma Territory",1905,no,,0,,,Scraped from Wikipedia. Original cause: Washed out under pressure from debris during high water
+Division Street Bridge,WA,1915,scour,"Division Street Bridge Spokane, Washington",1914,no,,7,10.0,,"Scraped from Wikipedia. Original cause: Collapsed a week after being resurfaced; poor steel, metal fatigue, and a previous impact by another bridge swept downstream during a flood"
+Grand Avenue Bridge,WI,1920,collision,"Grand Avenue Bridge Neillsville, Wisconsin",1919,no,,1,0.0,,Scraped from Wikipedia. Original cause: Believed weakened by heavy trucks hauling shale in prior months
+Greenfield Bridge,PA,1921,misc,"Greenfield Bridge Pittsburgh, Pennsylvania",1920,no,,0,0.0,,Scraped from Wikipedia. Original cause: Collapsed
+Appomattox River Drawbridge,VA,1935,misc,"Appomattox River Drawbridge Hopewell, Virginia",1934,no,,14,,,Scraped from Wikipedia. Original cause: Bus drove across the open drawbridge.
+Falling Creek Bridge,VA,1936,collision,"Falling Creek Bridge Chesterfield County, Virginia",1935,no,,4,5.0,,"Scraped from Wikipedia. Original cause: Truck crossing the bridge struck a tie rod causing collapse. One truck fell 15 feet to the creek bed, a second escaped to safety."
+Honeymoon Bridge (Upper Steel Arch Bridge),NY,1938,misc,"Honeymoon Bridge (Upper Steel Arch Bridge) Niagara Falls, New York – Niagara Falls, Ontario",1937,no,,0,0.0,,Scraped from Wikipedia. Original cause: Ice jam in gorge pushed bridge off foundations
+Tacoma Narrows Bridge,WA,1940,construction,"Tacoma Narrows Bridge Tacoma, Washington",1939,no,,0,0.0,,Scraped from Wikipedia. Original cause: Aerodynamically poor design resulted in aeroelastic flutter
+Chesapeake City Bridge,MD,1942,misc,"Chesapeake City Bridge Chesapeake City, Maryland",1941,no,,0,,,"Scraped from Wikipedia. Original cause: Tanker Franz Klasen rammed the movable bridge supports, causing collapse"
+John P. Grace Memorial Bridge,SC,1946,collision,"John P. Grace Memorial Bridge Charleston, South Carolina",1945,no,,5,,,Scraped from Wikipedia. Original cause: Three spans collapsed due to collision by the freighter Nicaragua Victory
+I-29 Big Sioux River Bridge,IA,1962,scour,"I-29 Big Sioux River Bridge Sioux City, Iowa",1961,no,,0,,,Scraped from Wikipedia. Original cause: Northbound road deck collapsed into Big Sioux River as a result of heavy flooding
+Lake Pontchartrain Causeway,LA,1964,collision,"Lake Pontchartrain Causeway Metairie, Louisiana",1963,no,,6,,,Scraped from Wikipedia. Original cause: Ship collision
+Kansas Avenue Bridge,KS,1965,deterioration,"Kansas Avenue Bridge Topeka, Kansas",1964,no,,1,,,Scraped from Wikipedia. Original cause: Structural deterioration
+Long Shoal Bridge,MO,1965,overload,"Long Shoal Bridge Benton County, Missouri",1964,no,,3,,,Scraped from Wikipedia. Original cause: Faulty design and overload
+Silver Bridge,OH,1967,deterioration,"Silver Bridge Point Pleasant, West Virginia and Gallipolis, Ohio",1966,no,,46,9.0,,Scraped from Wikipedia. Original cause: Stress corrosion cracking; nonredundant eyebar design
+Silver Bridge,WV,1967,fracture_critical,Point Pleasant West Virginia Ohio River,1966,no,,46,9.0,,pre_1996_no_ascii_archive
+1972 Sidney Lanier Bridge collapse,GA,1972,collision,"1972 Sidney Lanier Bridge collapse Brunswick, Georgia",1971,no,,10,,,Scraped from Wikipedia. Original cause: Struck by the freighter African Neptune
+West Side Elevated Highway,NY,1973,overload,West Side Elevated Highway New York City,1972,no,,0,,,Scraped from Wikipedia. Original cause: Poor maintenance and overloading
+Benjamin Harrison Memorial Bridge,VA,1977,collision,"Benjamin Harrison Memorial Bridge Hopewell, Virginia",1976,no,,0,,,"Scraped from Wikipedia. Original cause: An ocean-going tanker ship, the 5,700 ton, 523-ft long Marine Floridian struck the bridge, collapsing a section."
+Green Island Bridge,NY,1977,scour,"Green Island Bridge Troy, New York",1976,no,,0,0.0,,Scraped from Wikipedia. Original cause: Flooding undermined the lift span pier resulting in the western lift tower and roadbed span of the bridge collapsing into the Hudson River.
+Hood Canal Floating Bridge (William A. Bugge Bridge),WA,1979,extreme_weather,"Hood Canal Floating Bridge (William A. Bugge Bridge) North End of Hood Canal, Washington",1978,no,,0,0.0,,Scraped from Wikipedia. Original cause: Blown pontoon hatches combined with extreme windstorm
+Sunshine Skyway Bridge,FL,1980,collision,"Sunshine Skyway Bridge near St. Petersburg, Florida",1979,no,,35,1.0,,"Scraped from Wikipedia. Original cause: The freighter Summit Venture struck the bridge during a storm, causing the center section of the southbound span to collapse into Tampa Bay"
+Tompkins Hill Road overpass,CA,1980,extreme_weather,"Tompkins Hill Road overpass Humboldt County, California",1979,no,,0,6.0,,Scraped from Wikipedia. Original cause: Earthquake caused two spans to slip off supporting columns
+Hyatt Regency walkway collapse,KS,1981,fracture_critical,"Hyatt Regency walkway collapse Kansas City, Missouri",1980,no,,114,200.0,,Scraped from Wikipedia. Original cause: Erroneous redesign of supporting member during construction when original design considered too difficult to construct
+Cline Avenue over the Indiana Harbor and Ship Canal and surrounding heavy industry,IN,1982,fracture_critical,"Cline Avenue over the Indiana Harbor and Ship Canal and surrounding heavy industry East Chicago, Indiana",1981,no,,14,16.0,,"Scraped from Wikipedia. Original cause: 1,200 feet (370 m) of the bridge collapsed during construction when a concrete pad supporting shoring towers developed cracks."
+Mianus River Bridge,CT,1983,deterioration,"Mianus River Bridge Greenwich, Connecticut",1982,no,,3,3.0,,Scraped from Wikipedia. Original cause: Metal corrosion and fatigue/Deferred maintenance
+"U.S. Highway 36, the Boulder Turnpike, near MP 12.5",CO,1985,collision,"U.S. Highway 36, the Boulder Turnpike, near MP 12.5 Westminster, Colorado",1984,no,,5,,,Scraped from Wikipedia. Original cause: Head-on Train Collision
+"Stebbins Rd. Bridge (NY State Rt 90, not to be confused with Interstate 90)",NY,1986,overload,"Stebbins Rd. Bridge (NY State Rt 90, not to be confused with Interstate 90) Hanover, NY",1985,no,,1,3.0,,Scraped from Wikipedia. Original cause: Likely overloaded
+Schoharie Creek Bridge,NY,1987,scour,New York State Thruway Schoharie Creek,1986,no,,10,0.0,,pre_1996_no_ascii_archive;only_scour_example_but_unusable
+Schoharie Creek Bridge collapse Thruway Bridge,NY,1987,scour,"Schoharie Creek Bridge collapse Thruway Bridge Fort Hunter, New York",1986,no,,10,,,Scraped from Wikipedia. Original cause: Improper protection of footings by contractor led to scour of riverbed under footings.
+Schoharie Creek's Mill Point Bridge,NY,1987,scour,"Schoharie Creek's Mill Point Bridge Wellsville, Amsterdam, New York",1986,no,,0,0.0,,Scraped from Wikipedia. Original cause: Flooding
+Cypress Street Viaduct,CA,1989,extreme_weather,"Cypress Street Viaduct Oakland, California",1988,no,,42,,,Scraped from Wikipedia. Original cause: Destroyed in Loma Prieta earthquake
+San Francisco–Oakland Bay Bridge,CA,1989,extreme_weather,"San Francisco–Oakland Bay Bridge connects San Francisco and Oakland, California",1988,no,,1,,,Scraped from Wikipedia. Original cause: 50-foot (15 m) section of the upper deck and lower deck collapsed in Loma Prieta earthquake
+Swinging Bridge,AR,1989,misc,"Swinging Bridge Heber Springs, Arkansas",1988,no,,5,,,Scraped from Wikipedia. Original cause: Destroyed by pedestrians swinging the bridge
+Tennessee Hatchie River Bridge,TN,1989,deterioration,"Tennessee Hatchie River Bridge Between Covington, Tennessee and Henning, Tennessee",1988,no,,8,,,"Scraped from Wikipedia. Original cause: Shifting river channel, deterioration of foundation timber piles"
+Lacey V. Murrow Memorial Bridge,WA,1990,scour,"Lacey V. Murrow Memorial Bridge Connects Seattle and Mercer Island, Washington",1989,no,,0,0.0,,Scraped from Wikipedia. Original cause: Heavy flooding of pontoons
+BIN 10085,NY,1993,scour,SR 355 in Frederick Co Monocacy River,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1068010,NY,1993,scour,"NY481 Town of Clay, Onondaga Co Mud Creek",1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1159,NY,1993,scour,Jackson County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2070,NY,1993,scour,SR 450 in Anne Arundel Co Severn River,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 36-28,NY,1993,scour,Pendleton Co. Teter Run,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 51-8/4,NY,1993,scour,Webster County L. Fork of Holly R,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 72527,NY,1993,scour,Sibley County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN C2805,NY,1993,scour,I 30 Otter Creek,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L1737,NY,1993,scour,Lyon County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2014,NY,1993,scour,Lincoln County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2029,NY,1993,scour,Lincoln County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2096,NY,1993,scour,Lincoln County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2390,NY,1993,scour,Lesueur County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2544,NY,1993,scour,Nobles County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L2704,NY,1993,scour,Sibley County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L3627,NY,1993,scour,Pipestone County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L6674,NY,1993,scour,Traverse County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L6806,NY,1993,scour,Redwood County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN L6808,NY,1993,scour,Redwood County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN RO122,NY,1993,scour,Lyon County nan,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN W-0714,NY,1993,scour,Fruit Tree Rd in Washington Co Raven Rock Run,1992,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Big Bayou Canot Bridge,AL,1993,collision,CSX railroad bridge Mobile Alabama,1992,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1992.cfm,47,103.0,,pre_1996_no_ascii_archive
+CSXT Big Bayou Canot rail bridge,AL,1993,collision,"CSXT Big Bayou Canot rail bridge near Mobile, Alabama",1992,no,,47,103.0,,"Scraped from Wikipedia. Original cause: Barge towboat, struck pier in fog; span shifted so next train derailed; impact of derailment destroyed span"
+Claiborne Avenue Bridge,LA,1993,collision,"Claiborne Avenue Bridge 9th Ward, New Orleans, Louisiana",1992,no,,1,2.0,,Scraped from Wikipedia. Original cause: Barge collision
+Temporary bridge,NH,1993,misc,"Temporary bridge Hopkinton, New Hampshire",1992,no,,0,1.0,,Scraped from Wikipedia. Original cause: Collapsed while being dismantled
+BIN 1016190,NY,1994,scour,20 A 20A42031057 Beards Creek,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1049381,NY,1994,scour,Sagtikos State Parkway Long Island Expwy,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2217440,NY,1994,scour,Stowell Road Glendenning Creek,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3346460,NY,1994,scour,Sheely Road Sundown Creek,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 49-SR019-06.45,NY,1994,scour,SR 19 Mississippi River,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN C3038,NY,1994,scour,Mabelvale West I 30,1993,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Newhall Pass Interchange,CA,1994,extreme_weather,"Newhall Pass Interchange Newhall, Santa Clarita, California",1993,no,,1,,,Scraped from Wikipedia. Original cause: 1994 Northridge Earthquake
+BIN 08-17,NY,1995,scour,Clay Co. Sycamore Creek,1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 12291,NY,1995,scour,CR 33 Big Creek,1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 18-87,NY,1995,scour,Jackson Co. (Mt. Alto) Little Mill Creek,1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 18907,NY,1995,scour,CR 134 Adamson Creek,1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3330,NY,1995,scour,"South Bridge, Auburn-Lewiston Androscoggin River",1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 36-SR114-03.23,NY,1995,scour,SR 114 Tennessee River,1994,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+I-5 Bridge Disaster,CA,1995,deterioration,"I-5 Bridge Disaster Coalinga, California",1994,no,,7,0.0,,Scraped from Wikipedia. Original cause: Structural failure — support piers collapsed
+BIN 05/04,NY,1996,scour,"Deneen Road, Washington County Trib. Potomac River",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 05/15,NY,1996,scour,"Weller Road, Washington County Trib. Licking Creek",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1043,NY,1996,scour,SR 47 Allegany County North Creek,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1061800,NY,1996,scour,Peck Road NY 690,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 12/320,NY,1996,scour,Naches River Bridge Naches River,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-03,NY,1996,scour,Hampshire Co. Branch Lt. Cacapon R,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-08,NY,1996,scour,Hampshire Co. Mill Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-13,NY,1996,scour,Hampshire Co. Old Man Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 14-220,NY,1996,scour,Hampshire Co. Mill Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 14/07,NY,1996,scour,"Welty Church Road, Washington Co Little Antietam Crk",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 16-20,NY,1996,scour,Hardy Co. Upper Cove Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2187,NY,1996,scour,Norridgewock - Covered Br. Kennebec River,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2227010,NY,1996,scour,Van Benschoten Road Plattekill,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2267400,NY,1996,scour,Vanderpool Road Prospect Valley Crk,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 29-02,NY,1996,scour,Mineral Co. Abram Creek,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 29-42,NY,1996,scour,Mineral Co. Deep Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3201320,NY,1996,scour,Long Road West Kill Creek,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 33-07,NY,1996,scour,Morgan Co. Cacapon River,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3302320,NY,1996,scour,Ormsby Road Gulf Brook,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3302610,NY,1996,scour,Spear Road Bogurt River,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332010,NY,1996,scour,Burch Hill Road Catherine Creek,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3351750,NY,1996,scour,Cr1 Tremperkill Road Tremperkill,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3353060,NY,1996,scour,Flair Street E. Branch Deleware R,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3356640,NY,1996,scour,TH 43 Sipple Road Hankins Creek,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3356660,NY,1996,scour,TH59 Acid Factory Pea Brook,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 38-12,NY,1996,scour,Pocahontas Co. Greenbrier River,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 39-86,NY,1996,scour,Preston Co. Spruce Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 42-39,NY,1996,scour,Randolph Co. Shavers Run,1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN A-0031,NY,1996,scour,"Beachwood Road, Allegany County Koonz Run",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN CL-0342,NY,1996,scour,"Newport Road, Carroll County Gillis Falls",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN G-0048,NY,1996,scour,"Savage River Road, Garrett Cty. Savage River",1995,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Walnut Street Bridge,PA,1996,scour,Harrisburg Pennsylvania Susquehanna River,1995,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1995.cfm,0,0.0,,1996_blizzard_flood_ice;prefailure_year_still_pre_1996_cutoff_verify
+BIN 04-16,NY,1997,scour,Braxton Co. Fk of Lt. Kanawha Rv,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 118BR15,NY,1997,scour,Montgomery nan,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 165/10,NY,1997,scour,Carbon River Bridge Carbon River,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1671,NY,1997,scour,N.M. 18 Rio Grande,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332120,NY,1997,scour,Hall Road Hooker Creek,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 5512179,NY,1997,scour,I-87 Central Ave.,1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA36-80,NY,1997,scour,"Denmark Road, Lafayette Co. Little Kettle Ck",1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA36080,NY,1997,scour,"Denmark Road, Lafayette Co. Little Kettle Cr.",1996,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 09-25,NY,1998,scour,Dodridge Co. Meathouse Fork,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1058509,NY,1998,scour,"Wantagh Parkway, Nassau Co. Goose Creek",1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 11-15,NY,1998,scour,Gilmer Co. Grass Run,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 116BR10,NY,1998,scour,Bristol nan,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 156,NY,1998,scour,Burke County I-40,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 17-04,NY,1998,scour,Harrison Co. Bingham Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 18-21,NY,1998,scour,Jackson Co. (Lockhart Fork) Lt. Fork Sandy Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 20-57,NY,1998,scour,Kanawha Co. Blue Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2218880,NY,1998,scour,Town of Spencer - Hart Road Sulphur Spring Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2219830,NY,1998,scour,Buel Road E. Br. Deer Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 31-76,NY,1998,scour,Monogalia Co. Booths Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3335900,NY,1998,scour,Dashnaw Road Little Ausable River,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3335950,NY,1998,scour,CR 39 Clintonville Road Little Ausable River,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3337430,NY,1998,scour,WPA Road W. Br. Deer Creek,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3367390,NY,1998,scour,Springville-Boston Road Spring Brook,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 53-53,NY,1998,scour,Wirt Co. (Parrish Fork) Parrish Fork,1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69-84,NY,1998,scour,"Hogfoot Road, Tate Co. Hoover Branch",1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69084,NY,1998,scour,"Hogfoot Raod, Tate Co. Hoover Branch",1997,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1006720,NY,1999,scour,"Pedestrain Bridge, Saratoga Co. Route 9N",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 101/214,NY,1999,scour,Nolan Creek Bridge Nolan Creek,1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1091550,NY,1999,scour,Route 340 Sparkill Creek,1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3117,NY,1999,scour,"Pederstrain Bridge, Baltimore Co I-695",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3305130,NY,1999,scour,"County Home Br. Rd., Warren Co. Schroon River",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 49B08,NY,1999,scour,N. Main St.in Heppner Hinton Creek,1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 5513810,NY,1999,scour,Lincoln Park Pedestrain Bridge Route 100,1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 8584,NY,1999,scour,Chavez Co. Road nan,1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA15-187,NY,1999,scour,"Rockport Road, Copiah Co. Pearl River",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA15187,NY,1999,scour,"Rockport Road, Copiah Co. Pearl River",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA27-6,NY,1999,scour,"FAS 1636, Humphreys Co. Panther Creek",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA27006,NY,1999,scour,"FAS 1636, Humphreys Co. Panther Cr.",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA32-56,NY,1999,scour,"Goza Road, Jefferson Co. Mason Branch",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA32056,NY,1999,scour,"Goza Road, Jefferson Co. Mason Branch",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA64-144,NY,1999,scour,"Strong River Road, Simpson Co. Strong River",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA64144,NY,1999,scour,"Strong River Road, Simpson Co. Strong River",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA66-33,NY,1999,scour,"Old Highway 26, Stone Co. Kirby Creek",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA66033,NY,1999,scour,"Old Highway 26, Stone Co. Kirby Creek",1998,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Maiden Choice Footbridge,MD,1999,collision,"Maiden Choice Footbridge Arbutus, Baltimore County, Maryland",1998,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1998.cfm,1,6.0,,Scraped from Wikipedia. Original cause: Collision with overheight road vehicle.[49][50]
+BIN 100833,NY,2000,scour,I-81 (SB) NY 11,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1008332,NY,2000,scour,I-81 NB NY 11,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1012999,NY,2000,scour,Route 26 Route 434,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1053711,NY,2000,scour,"Route 690 SB, Onondaga Co. Route 370",1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1070790,NY,2000,scour,Town Line Road I-390 SB,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2222280,NY,2000,scour,"Van Deusen Road, Columbia Co. Loomis Creek",1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3340080,NY,2000,scour,"Co Rte 19, East Road - Lewis Co. S.B. Negre Crrek",1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3352500,NY,2000,scour,Basin Clove Road W Br. Delaware River,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3357400,NY,2000,scour,TH48 Tusten Road Ten Mile River,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 4310090,NY,2000,scour,"Co rte 27, Montgomery Co. Barge Canal",1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 4443820,NY,2000,scour,Moore Road I-390 EB,1999,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Charlotte Motor Speedway pedestrian bridge,NC,2000,overload,Charlotte North Carolina US Route 29,1999,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1999.cfm,0,107.0,,partial_collapse_beam_weakness
+Charlotte Motor Speedway pedestrian bridge over U.S. Route 29,NC,2000,misc,"Charlotte Motor Speedway pedestrian bridge over U.S. Route 29 Charlotte, North Carolina",1999,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1999.cfm,0,107.0,,Scraped from Wikipedia. Original cause: Beam weakness and other unspecified reasons.
+Hoan Bridge,WI,2000,fracture_critical,"Hoan Bridge Milwaukee, Wisconsin",1999,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii1999.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Northbound right lane began to buckle during the morning rush hour and sagged a few feet from violent failure of cross bracing members caused by extremely high stress concentrations in triaxial welds.
+BIN 1007632,NY,2001,scour,NY 17 NY 10,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1020662,NY,2001,scour,Route 29 I-87 NB,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1027530,NY,2001,scour,Route 58 WB Oswegatchie River,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2020410,NY,2001,scour,Route 28A Bushkill Creek,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2261160,NY,2001,scour,"Sagg Road, Suffolk L. I. R.R. Montauk B",2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2269290,NY,2001,scour,Leon McGlashan Road Batavia Kill,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 30-A622-2.01,NY,2001,scour,Shelton Mission Rd Greene Co. Dry Creek,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3331810,NY,2001,scour,Langdon Hill Road Newtown Creek,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3338830,NY,2001,scour,Military Road Mill Creek,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 5051740,NY,2001,scour,I-790 Utica Inter./Gensee,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 59C535,NY,2001,scour,Harris Road Pine Creek,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN Private,NY,2001,scour,Lower Shavertown Cov. Br Trout Brook,2000,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+I-285 bridge over GA-400,GA,2001,fire,"I-285 bridge over GA-400 Atlanta, Georgia",2000,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2000.cfm,0,1.0,,"Scraped from Wikipedia. Original cause: A fuel tanker overturned underneath the bridge, engulfing the bridge in fire"
+Queen Isabella Causeway,TX,2001,collision,"Queen Isabella Causeway Port Isabel, Texas and South Padre Island, Texas",2000,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2000.cfm,8,,,"Scraped from Wikipedia. Original cause: 4 loaded barges veered 175 feet (53 m) west of the navigation channel and struck one of the bridge supports, causing a partial collapse of 3 sections measuring approximately 80 feet (24 m) each."
+BIN 1002460,NY,2002,scour,"Route 5, Herkimer Co East Canada Cr",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1019300,NY,2002,scour,"NY Route 27, Brookhaven Station Road",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1077970,NY,2002,scour,"Pedestrian Bridge, Region 2 NYS Rte 49",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 56-0A257-1.90,NY,2002,scour,Driver Rd Macon County White Oak Creek,2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 6237,NY,2002,scour,NM 456 Rral Major Collector nan,2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA60-65,NY,2002,scour,"Eason Road, Quitman Co. Bobo Bayou",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA69-31,NY,2002,scour,"Coldwater-Arkabutla Rd, Tate Co. Hickahala Creek",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN SA77-85,NY,2002,scour,"Woodward Switch Road, Wayne Co. Chickasawhay River",2001,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+I-40 bridge disaster,OK,2002,collision,"I-40 bridge disaster Webbers Falls, Oklahoma",2001,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2001.cfm,14,11.0,,Scraped from Wikipedia. Original cause: Barge struck one pier of the bridge causing a partial collapse
+Marcy Pedestrian Bridge,NY,2002,overload,Marcy New York State Route 49,2001,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2001.cfm,1,9.0,,under_construction_collapse
+Marcy Pedestrian Bridge Collapse,NY,2002,construction,"Marcy Pedestrian Bridge Collapse Marcy, New York",2001,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2001.cfm,1,9.0,,"Scraped from Wikipedia. Original cause: While closed for construction, bridge twisted and collapsed over State Route 49."
+BIN 00583,NY,2003,scour,Harrisburg Bridge Willamette River,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 19-I40-15.16,NY,2003,scour,Middle Creek Road Monroe County Middle Creek,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 193,NY,2003,scour,113th Street Thorpe Creek,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 2205590,NY,2003,scour,Jones Road Madd River,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 29C211,NY,2003,scour,Evan Creek Bridge (Wimer) Evan Creek,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3330270,NY,2003,scour,CR 1 S Br. Van Campen Cre,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3332670,NY,2003,scour,County Road 16 Meads Creek,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 5232,NY,2003,scour,I-40 Frontage Rd nan,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 62-A521-0.67,NY,2003,scour,Middle Creek Road Middle creek,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 8064,NY,2003,scour,County Road S - 8 nan,2002,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Kinzua Bridge,PA,2003,extreme_weather,"Kinzua Bridge Kinzua Bridge State Park, Pennsylvania",2002,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2002.cfm,0,,,Scraped from Wikipedia. Original cause: Hit by tornado
+BIN 06562,NY,2004,scour,Graves Road Mill Creek,2003,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 08499,NY,2004,scour,Fahy Avenue in Bandon nan,2003,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 1060020,NY,2004,scour,Fletcher Street Route 17,2003,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 5868,NY,2004,scour,Rio Arriba Co Rd 369 nan,2003,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 7372,NY,2004,scour,CR 58 I-25,2003,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+C-470 overpass over I-70,CO,2004,collision,"C-470 overpass over I-70 Golden, Colorado",2003,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2003.cfm,3,0.0,,"Scraped from Wikipedia. Original cause: During construction, a girder twisted, sagged, and fell onto I-70. An eastbound SUV struck the fallen girder; the top of the vehicle was torn off and three passengers died instantly.[61]"
+I-95 Howard Avenue Overpass,CT,2004,fire,Bridgeport Connecticut,2003,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2003.cfm,0,1.0,,tanker_fire_low_confidence_verify_year
+Interstate 95 Howard Avenue Overpass,CT,2004,collision,"Interstate 95 Howard Avenue Overpass Bridgeport, Connecticut",2003,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2003.cfm,0,1.0,,"Scraped from Wikipedia. Original cause: Car struck a truck carrying heating oil, igniting a fire that melted the superstructure, causing collapse of the southbound lanes"
+BIN 2224200,NY,2005,scour,Balace Road Rondout Creek NY,2004,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3347020,NY,2005,scour,Gossoo Road Bushnellsville Creek,2004,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 3347800,NY,2005,scour,Bridge Street Esopus Creek,2004,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 56-A447-0.02,NY,2005,scour,Wilburn Lane Macon County East Fork Goose Cree,2004,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+BIN 8684,NY,2005,scour,Grant Co. Rd. 3-14 nan,2004,yes,,0,0.0,0.0,Ingested from NYDOT/Scour Database
+Biloxi Bay Bridge,MS,2005,extreme_weather,"Biloxi Bay Bridge Biloxi, Mississippi",2004,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2004.cfm,0,0.0,,"Scraped from Wikipedia. Original cause: After Hurricane Katrina on August 29, 2005, the original U.S. Route 90 crossing over the Biloxi Bay suffered extensive damage, as the rising storm surge shifted bridge segments off their piers."
+I-10 Twin Span Bridge,LA,2005,extreme_weather,"I-10 Twin Span Bridge New Orleans and Slidell, Louisiana",2004,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2004.cfm,0,0.0,,"Scraped from Wikipedia. Original cause: After Hurricane Katrina on August 29, 2005, the old Twin Spans suffered extensive damage, as the rising storm surge had pulled or shifted bridge segments off their piers."
+Interstate 88 Bridge,NY,2006,scour,Unadilla New York,2005,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2005.cfm,2,0.0,,mid_atlantic_flood_2006
+Harp Road bridge,WA,2007,collision,"Harp Road bridge Oakville, Washington",2006,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2006.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Collapsed under weight of a truck hauling an excavator[73][74]
+I-35W Mississippi River Bridge,MN,2007,deterioration,Minneapolis Minnesota Mississippi River,2006,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2006.cfm,13,145.0,234000000.0,undersized_gusset_plates
+MacArthur Maze,CA,2007,collision,"MacArthur Maze Oakland, California",2006,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2006.cfm,0,1.0,,"Scraped from Wikipedia. Original cause: Tanker truck crash and explosion, resulting fire softened steel sections of flyover causing them to collapse."
+Minneapolis I-35W bridge over the Mississippi River,MN,2007,overload,"Minneapolis I-35W bridge over the Mississippi River Minneapolis, Minnesota",2006,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2006.cfm,13,145.0,,"Scraped from Wikipedia. Original cause: The NTSB said that undersized gusset plates, increased concrete surfacing load, and weight of construction supplies/equipment caused this collapse."
+The Cedar Rapids and Iowa City Railway (CRANDIC) bridge,IA,2008,scour,"The Cedar Rapids and Iowa City Railway (CRANDIC) bridge Cedar Rapids, Iowa",2007,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2007.cfm,0,0.0,,Scraped from Wikipedia. Original cause: During June 2008 Midwest floods
+9 Mile Road Bridge at I-75,MI,2009,misc,"9 Mile Road Bridge at I-75 Hazel Park, Michigan",2008,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2008.cfm,0,1.0,,Scraped from Wikipedia. Original cause: Collapsed due to tanker accident[84]
+Popp's Ferry Bridge,MS,2009,collision,"Popp's Ferry Bridge Biloxi, Mississippi",2008,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2008.cfm,0,0.0,,Scraped from Wikipedia. Original cause: A tugboat pushing eight barges hit the bridge pilings
+San Francisco Oakland Bay Bridge,CA,2009,deterioration,San Francisco Oakland California I-80,2008,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2008.cfm,0,1.0,,repair_rods_failed
+San Francisco – Oakland Bay Bridge,CA,2009,misc,"San Francisco – Oakland Bay Bridge Connects San Francisco and Oakland, California",2008,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2008.cfm,0,1.0,,"Scraped from Wikipedia. Original cause: Two tension rods and a crossbeam from a recently installed repair collapsed during the evening commute, causing the bridge to be closed temporarily."
+Eggner's Ferry Bridge (1932) over Kentucky Lake (Tennessee River),Y,2012,collision,"Eggner's Ferry Bridge (1932) over Kentucky Lake (Tennessee River) Between Trigg County, Kentucky and Marshall County, Kentucky",2011,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2011.cfm,0,0.0,,Scraped from Wikipedia. Original cause: The MV Delta Mariner struck the bottom of a span of the bridge when travelling in the incorrect channel of the river.
+Jay Cooke State Park Swinging Bridge,MN,2012,scour,"Jay Cooke State Park Swinging Bridge Carlton, Minnesota",2011,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2011.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Raging floodwaters
+Pedestrian bridge over Moanalua Freeway,HI,2012,collision,"Pedestrian bridge over Moanalua Freeway Honolulu, Hawaii",2011,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2011.cfm,0,,,"Scraped from Wikipedia. Original cause: A dump truck was towing a trailer carrying a forklift, which impacted the pedestrian bridge over Moanalua Road."
+I-5 Skagit River Bridge,WA,2013,collision,Mount Vernon Washington Skagit River,2012,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2012.cfm,0,3.0,,oversized_truck_load_struck_truss
+I-5 Skagit River Bridge collapse,WA,2013,collision,"I-5 Skagit River Bridge collapse Mount Vernon, Washington",2012,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2012.cfm,0,3.0,,Scraped from Wikipedia. Original cause: Oversized semi-truck load carrying drilling equipment from Alberta clipped top steel girder causing bridge collapse.
+Scott City roadway bridge collapse,MO,2013,misc,"Scott City roadway bridge collapse Scott City, Missouri",2012,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2012.cfm,0,7.0,,"Scraped from Wikipedia. Original cause: A Union Pacific train t-boned a Burlington Northern Santa Fe train outside Scott City, Missouri, at about 2:30 am, which caused numerous rail cars to hit an overpass support pillar, collapsing two bridge sections onto the rail line. Two cars drove onto the collapsed sections, injuring five people. Two train occupants were injured.[105][106]"
+Bob White Covered Bridge,VA,2015,scour,"Bob White Covered Bridge Patrick County, Virginia",2014,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2014.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Destruction due to major flooding
+Hopple Street Overpass over I-75 Southbound,OH,2015,misc,"Hopple Street Overpass over I-75 Southbound Cincinnati, Ohio",2014,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2014.cfm,1,0.0,,Scraped from Wikipedia. Original cause: Old Northbound Hopple Street offramp totally collapsed onto roadway below during demolition[110]
+I-10 Bridge,CA,2015,scour,I-10 Bridge Southern California,2014,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2014.cfm,0,1.0,,"Scraped from Wikipedia. Original cause: Remnants of Hurricane Dolores record breaking rainfall caused abutment displacement due to stream meander, which caused abutment scour."
+I-10 Bridge Southern California,CA,2015,scour,Southern California,2014,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2014.cfm,0,1.0,,hurricane_dolores_remnants_flooding
+Pennsy Bridge,PA,2015,misc,"Pennsy Bridge Ridgway, Pennsylvania",2014,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2014.cfm,0,3.0,,Scraped from Wikipedia. Original cause: Partial collapse during demolition.
+May Ave. Overpass,OK,2016,misc,"May Ave. Overpass Oklahoma City, Oklahoma",2015,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2015.cfm,0,,,"Scraped from Wikipedia. Original cause: An over-sized load hit the bridge, causing a section of the deck to fail"
+I-85 Bridge,GA,2017,fire,Atlanta Georgia Interstate 85,2016,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2016.cfm,0,0.0,17000000.0,arson_suspected
+"I-85N, Atlanta",GA,2017,fire,"I-85N, Atlanta Atlanta, Georgia",2016,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2016.cfm,0,0.0,,"Scraped from Wikipedia. Original cause: Fire (allegedly arson) involving HDPE pipe and other construction materials stored under bridge critically weakened structure, which collapsed."
+Pfeiffer Canyon Bridge,CA,2017,extreme_weather,"Pfeiffer Canyon Bridge Pfeiffer Big Sur State Park Big Sur, California",2016,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2016.cfm,0,,,Scraped from Wikipedia. Original cause: Massive rain and landslide
+FIU Pedestrian Bridge,FL,2018,deterioration,Florida International University Miami,2017,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2017.cfm,6,10.0,,under_construction_design_flaw
+Florida International University pedestrian bridge collapse,FL,2018,fracture_critical,"Florida International University pedestrian bridge collapse Sweetwater and University Park, Florida",2017,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2017.cfm,6,,,"Scraped from Wikipedia. Original cause: Partially constructed concrete truss bridge, a rare design. Main span (174 ft.) prefabricated and moved over busy city street. Faulty design (insufficient rebar for interface shear capacity), lack of redundancy, lack of peer review and oversight all contributed to failure. Work was performed while street was open to traffic.[133][134]"
+Dale Bend Bridge,AR,2019,collision,"Dale Bend Bridge Ola, Arkansas",2018,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2018.cfm,0,,,Scraped from Wikipedia. Original cause: Overweight truck
+Pensacola Bay Bridge,FL,2020,collision,"Pensacola Bay Bridge Pensacola, Florida",2019,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2019.cfm,0,,,Scraped from Wikipedia. Original cause: Unsecured barge during Hurricane Sally
+GA Route 86 overpass of Interstate 16,GA,2021,collision,"GA Route 86 overpass of Interstate 16 Treutlen County, Georgia near Soperton",2020,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2020.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Bridge struck by raised dump trailer
+Hernando de Soto Bridge crack,TN,2021,fracture_critical,Memphis Tennessee Mississippi River,2020,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2020.cfm,0,0.0,,NOT_A_COLLAPSE_near_miss_crack_detected_before_failure
+Fern Hollow Bridge,PA,2022,deterioration,Pittsburgh Pennsylvania Frick Park,2021,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2021.cfm,0,10.0,,corrosion_poor_maintenance
+Forbes Avenue Bridge over Nine Mile Run and Fern Hollow Creek,PA,2022,deterioration,"Forbes Avenue Bridge over Nine Mile Run and Fern Hollow Creek Pittsburgh, Pennsylvania",2021,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2021.cfm,0,10.0,,Scraped from Wikipedia. Original cause: Corrosion and poor maintenance
+Sanibel Causeway,FL,2022,extreme_weather,"Sanibel Causeway Sanibel, Florida",2021,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2021.cfm,0,,,Scraped from Wikipedia. Original cause: Collapsed due to Hurricane Ian[174]
+2023 Reed Point bridge collapse,MT,2023,misc,"2023 Reed Point bridge collapse Near Columbus, Montana",2022,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2022.cfm,0,,,Scraped from Wikipedia. Original cause: Train derailment
+I-95 bridge collapse,PA,2023,fire,Philadelphia Pennsylvania,2022,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2022.cfm,1,0.0,,tanker_fire_underpass
+Interstate 95 bridge collapse,PA,2023,fire,"Interstate 95 bridge collapse Philadelphia, Pennsylvania",2022,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2022.cfm,1,,,Scraped from Wikipedia. Original cause: Tanker fire on underpass
+Babb's Covered Bridge,ME,2024,collision,"Babb's Covered Bridge Gorham, Maine",2023,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2023.cfm,0,1.0,,Scraped from Wikipedia. Original cause: Overweight truck
+Francis Scott Key Bridge,MD,2024,collision,Baltimore Maryland Patapsco River,2023,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2023.cfm,6,,,fracture_critical_design_no_redundancy
+Francis Scott Key Bridge collapse,MD,2024,collision,"Francis Scott Key Bridge collapse Baltimore, Maryland",2023,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2023.cfm,6,,,Scraped from Wikipedia. Original cause: Ship collision
+Aldridge Creek Bridge,AL,2025,deterioration,"Aldridge Creek Bridge Huntsville, Alabama",2024,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2024.cfm,0,0.0,,Scraped from Wikipedia. Original cause: Poor maintenance and old age
+Carroll Road bridge,MD,2025,misc,"Carroll Road bridge Baltimore County, Maryland",2024,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2024.cfm,0,,,Scraped from Wikipedia. Original cause: Under investigation
+Old Vaucluse Road overpass of Interstate 20,SC,2025,collision,"Old Vaucluse Road overpass of Interstate 20 Aiken County, South Carolina near Vaucluse",2024,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2024.cfm,0,2.0,,Scraped from Wikipedia. Original cause: Fire due to fuel truck accident
+Portland & Western Mary's River Rail bridge,OR,2025,misc,"Portland & Western Mary's River Rail bridge Corvallis, Oregon",2024,yes,https://www.fhwa.dot.gov/bridge/nbi/ascii2024.cfm,0,,,Scraped from Wikipedia. Original cause: nan
